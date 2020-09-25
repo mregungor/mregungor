@@ -1,7 +1,6 @@
 
 ## WELCOME 
 
-### 
 You can contact me using my new mail adress.
 <br>
 <code>
@@ -9,7 +8,6 @@ You can contact me using my new mail adress.
 emre.gungor -at- alanyahep.edu.tr
 </p>
 </code>
-
 <br><br>
 Emre Güngör <br>
 Alanya HEP Univeristy<br>
