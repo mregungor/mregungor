@@ -2,12 +2,9 @@
 ## WELCOME 
 
 You can contact me using my new mail adress.
-<br>
-<code>
-<p style="color:lightblue;">
-emre.gungor -at- alanyahep.edu.tr
-</p>
-</code>
+<p style="color:lightblue;"><code>emre.gungor -at- alanyahep.edu.tr</code></p>
+
+
 <br><br>
 Emre Güngör <br>
 Alanya HEP Univeristy<br>
