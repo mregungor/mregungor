@@ -1,4 +1,19 @@
-### Hi there 👋
+
+## WELCOME 
+
+### 
+You can contact me using my new mail adress.
+<br>
+<code>
+<p style="color:lightblue;">
+emre.gungor -at- alanyahep.edu.tr
+</p>
+</code>
+
+<br><br>
+Emre Güngör <br>
+Alanya HEP Univeristy<br>
+Computer Engineering Department<br>
 
 <!--
 **mregungor/mregungor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
