@@ -5,7 +5,6 @@ You can contact me using my new mail adress.
 <p style="color:lightblue;"><code>emre.gungor -at- alanyahep.edu.tr</code></p>
 
 
-<br>
 Emre Güngör <br>
 Alanya HEP Univeristy<br>
 Computer Engineering Department<br>
