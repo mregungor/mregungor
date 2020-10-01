@@ -6,11 +6,9 @@ You can contact me using my new mail adress.
 
 
 <br>
-{% highlight c %}
 Emre Güngör <br>
 Alanya HEP Univeristy<br>
 Computer Engineering Department<br>
-{% endhighlight %}
 
 <!--
 **mregungor/mregungor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
