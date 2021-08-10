@@ -6,8 +6,8 @@ You can contact me using mail adress below.
 
 
 Emre Güngör <br>
-Alanya HEP Univeristy<br>
-Computer Engineering Department<br>
+Kütahya Sağlık Bilimleri Üniversitesi<br>
+Bilgisayar Mühendisliği<br>
 
 <!--
 **mregungor/mregungor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
