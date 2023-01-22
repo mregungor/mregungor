@@ -2,7 +2,7 @@
 ## WELCOME 
 
 You can contact me using mail adress below.
-<p style="color:lightblue;"><code>emregungor84-at-hotmail.com</code></p>
+<p style="color:lightblue;"><code>emre.gungor-at-ksbu.edu.tr</code></p>
 
 
 Emre Güngör <br>
