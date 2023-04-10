@@ -6,7 +6,7 @@
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/59082849/231017924-40cd4428-388f-4609-9845-e527e48dff92.gif" width="310" height="310"/>
 
-<br/>
+<br/><br/><br/>
 - 🌐 To Discover More (Background and Interests):<br> [https://mregungor.github.io/web/index.html](https://mregungor.github.io/web/index.html)
 <br/>
 - 📫 How to reach me: **emre.gungor-at-ksbu.edu.tr**
