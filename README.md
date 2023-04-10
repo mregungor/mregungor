@@ -10,7 +10,7 @@
 
 
 <br><br><br><br><br><br><br><br>
-<br>
+<br><br>
 - 🌐 To Discover More (Background and Interests):<br>
 [https://mregungor.github.io/web/index.html](https://mregungor.github.io/web/index.html)
 <br/><br>
@@ -22,7 +22,7 @@
 ![I_know_him](https://user-images.githubusercontent.com/59082849/231019200-32098b6a-e957-4f05-9c86-118942084cbe.gif)
 ![urahara](https://user-images.githubusercontent.com/59082849/231017924-40cd4428-388f-4609-9845-e527e48dff92.gif)
 -->
-<h3 align="left">Contact me:</h3>
+<h3 align="left">Info:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/mregungor4529/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mregungor4529/" height="40" width="40" /></a>
   <a href="https://orcid.org/0000-0003-4278-6294" target="_blank"><img align="center" src="https://mregungor.github.io/web/images/ico/orcid.png" alt="ORCID" height="40" width="40" /></a>
