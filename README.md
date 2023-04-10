@@ -24,11 +24,11 @@
 -->
 <h3 align="left">Contact me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/mregungor4529/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mregungor4529/" height="30" width="40" /></a>
-  <a href="https://orcid.org/0000-0003-4278-6294" target="_blank"><img align="center" src="https://mregungor.github.io/web/images/ico/orcid.png" alt="ORCID" height="30" width="40" /></a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=57191825606" target="_blank"><img align="center" src="https://mregungor.github.io/web/images/ico/scopus.png" alt="Scopus" height="30" width="40" /></a>
-  <a href="https://scholar.google.com.tr/citations?user=l79fuuYAAAAJ" target="_blank"><img align="center" src="https://mregungor.github.io/web/images/ico/google-academic.png" alt="Google Scholar" height="30" width="40" /></a>
-  <a href="https://www.webofscience.com/wos/author/record/1234667" target="_blank"><img align="center" src="https://mregungor.github.io/web/images/ico/publons.png" alt="Web of Science" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mregungor4529/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mregungor4529/" height="40" width="40" /></a>
+  <a href="https://orcid.org/0000-0003-4278-6294" target="_blank"><img align="center" src="https://mregungor.github.io/web/images/ico/orcid.png" alt="ORCID" height="40" width="40" /></a>
+  <a href="https://www.scopus.com/authid/detail.uri?authorId=57191825606" target="_blank"><img align="center" src="https://mregungor.github.io/web/images/ico/scopus.png" alt="Scopus" height="40" width="40" /></a>
+  <a href="https://scholar.google.com.tr/citations?user=l79fuuYAAAAJ" target="_blank"><img align="center" src="https://mregungor.github.io/web/images/ico/google-academic.png" alt="Google Scholar" height="40" width="40" /></a>
+  <a href="https://www.webofscience.com/wos/author/record/1234667" target="_blank"><img align="center" src="https://mregungor.github.io/web/images/ico/publons.png" alt="Web of Science" height="40" width="40" /></a>
 </p>
 
 
