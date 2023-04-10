@@ -5,7 +5,7 @@
 
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/59082849/231019200-32098b6a-e957-4f05-9c86-118942084cbe.gif"/>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/59082849/231017924-40cd4428-388f-4609-9845-e527e48dff92.gif" width="310" height="310"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/59082849/231017924-40cd4428-388f-4609-9845-e527e48dff92.gif" width="320" height="257"/>
 
 
 
