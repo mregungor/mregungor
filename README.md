@@ -1,14 +1,19 @@
 <h1 align="center">Hello there!</h1>
 <h3 align="center">Emre Güngör(Computer Engineer,PhD) - Assistant Professor at Kütahya Health Sciences University -</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mregungor&label=Profile%20views&color=0e75b6&style=flat" alt="mregungor" /> </p>
 
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/59082849/231019200-32098b6a-e957-4f05-9c86-118942084cbe.gif"/>
 
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/59082849/231017924-40cd4428-388f-4609-9845-e527e48dff92.gif" width="310" height="310"/>
 
-<br/><br/><br/>
-- 🌐 To Discover More (Background and Interests):<br> [https://mregungor.github.io/web/index.html](https://mregungor.github.io/web/index.html)
-<br/>
+
+
+<br><br><br><br><br><br><br><br><br><br>
+<br>
+- 🌐 To Discover More (Background and Interests):<br>
+[https://mregungor.github.io/web/index.html](https://mregungor.github.io/web/index.html)
+<br/><br>
 - 📫 How to reach me: **emre.gungor-at-ksbu.edu.tr**
 <br/>
 
@@ -17,6 +22,7 @@
 ![I_know_him](https://user-images.githubusercontent.com/59082849/231019200-32098b6a-e957-4f05-9c86-118942084cbe.gif)
 ![urahara](https://user-images.githubusercontent.com/59082849/231017924-40cd4428-388f-4609-9845-e527e48dff92.gif)
 -->
+<br><br>
 <h3 align="left">Contact me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/mregungor4529/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mregungor4529/" height="30" width="40" /></a>
