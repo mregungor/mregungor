@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mregungor&label=Profile%20views&color=0e75b6&style=flat" alt="mregungor" /> </p>
 
+![urahara](https://user-images.githubusercontent.com/59082849/231017924-40cd4428-388f-4609-9845-e527e48dff92.gif)
+
 - 🌐 To Discover More (Background and Interests):<br> [https://mregungor.github.io/web/index.html](https://mregungor.github.io/web/index.html)
 
 - 📫 How to reach me: **emre.gungor-at-ksbu.edu.tr**
