@@ -22,6 +22,7 @@
 ![I_know_him](https://user-images.githubusercontent.com/59082849/231019200-32098b6a-e957-4f05-9c86-118942084cbe.gif)
 ![urahara](https://user-images.githubusercontent.com/59082849/231017924-40cd4428-388f-4609-9845-e527e48dff92.gif)
 -->
+<hr>
 <h3 align="left">Info:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/mregungor4529/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mregungor4529/" height="40" width="40" /></a>
@@ -36,6 +37,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mregungor&show_icons=true&locale=en" alt="mregungor" /></p>
 
+<hr>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> 
