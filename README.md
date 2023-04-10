@@ -14,7 +14,7 @@
 - 🌐 To Discover More (Background and Interests):<br>
 [https://mregungor.github.io/web/index.html](https://mregungor.github.io/web/index.html)
 <br/><br>
-- 📫 Reach me: &emsp; 〡**emre.gungor-at-ksbu.edu.tr**〡
+- 📫 Reach me: &ensp; ┃**emre.gungor-at-ksbu.edu.tr**┃
 
 <!--
 ![I_know_him](https://user-images.githubusercontent.com/59082849/231019200-32098b6a-e957-4f05-9c86-118942084cbe.gif)
