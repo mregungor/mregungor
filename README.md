@@ -1,5 +1,5 @@
 <h1 align="center">Hello There!</h1>
-<h3 align="center">Emre Güngör(Computer Engineer,PhD) - Assistant Professor at Kütahya Health Sciences University -</h3>
+<h3 align="center">- Emre Güngör(Computer Engineer,PhD) - Assistant Professor at Kütahya Health Sciences University -</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mregungor&label=Profile%20views&color=0e75b6&style=flat" alt="mregungor" /> </p>
 
