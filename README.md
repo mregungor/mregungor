@@ -22,13 +22,40 @@
 -->
 <hr>
 <h3 align="left">Info:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/mregungor4529/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mregungor4529/" height="40" width="40" /></a>
-  <a href="https://orcid.org/0000-0003-4278-6294" target="_blank"><img align="center" src="https://mregungor.github.io/web/images/ico/orcid.png" alt="ORCID" height="40" width="40" /></a>
-  <a href="https://www.scopus.com/authid/detail.uri?authorId=57191825606" target="_blank"><img align="center" src="https://mregungor.github.io/web/images/ico/scopus.png" alt="Scopus" height="40" width="40" /></a>
-  <a href="https://scholar.google.com.tr/citations?user=l79fuuYAAAAJ" target="_blank"><img align="center" src="https://mregungor.github.io/web/images/ico/google-academic.png" alt="Google Scholar" height="40" width="40" /></a>
-  <a href="https://www.webofscience.com/wos/author/record/1234667" target="_blank"><img align="center" src="https://mregungor.github.io/web/images/ico/publons.png" alt="Web of Science" height="40" width="40" /></a>
-</p>
+<table>
+<tr>
+<td align="center" width="100">
+<a href="https://linkedin.com/in/mregungor4529/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="50" height="50"/>
+</a>
+<br>LinkedIn
+</td>
+<td align="center" width="100">
+<a href="https://orcid.org/0000-0003-4278-6294" target="_blank">
+<img src="https://mregungor.github.io/web/images/ico/orcid.png" alt="ORCID" width="50" height="50"/>
+</a>
+<br>ORCID
+</td>
+<td align="center" width="100">
+<a href="https://www.scopus.com/authid/detail.uri?authorId=57191825606" target="_blank">
+<img src="https://mregungor.github.io/web/images/ico/scopus.png" alt="Scopus" width="50" height="50"/>
+</a>
+<br>Scopus
+</td>
+<td align="center" width="100">
+<a href="https://scholar.google.com.tr/citations?user=l79fuuYAAAAJ" target="_blank">
+<img src="https://mregungor.github.io/web/images/ico/google-academic.png" alt="Google Scholar" width="50" height="50"/>
+</a>
+<br>Google Scholar
+</td>
+<td align="center" width="100">
+<a href="https://www.webofscience.com/wos/author/record/1234667" target="_blank">
+<img src="https://mregungor.github.io/web/images/ico/publons.png" alt="Web of Science" width="50" height="50"/>
+</a>
+<br>Web of Science
+</td>
+</tr>
+</table>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mregungor&show_icons=true&locale=en&layout=compact" alt="mregungor" /></p>
