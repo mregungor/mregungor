@@ -32,6 +32,11 @@
 <br>LinkedIn
 </td>
 <td align="center" width="100">
+<a href="https://akademik.yok.gov.tr/AkademikArama/AkademisyenGorevOgrenimBilgileri?islem=direct&authorId=2C3A8341CC71CA98" target="_blank">
+<img src="https://mregungor.github.io/web/images/ico/yoksis.png" alt="YÖKSİS" width="50" height="50"/>
+</a>
+<br>YÖKSİS
+<td align="center" width="100">
 <a href="https://orcid.org/0000-0003-4278-6294" target="_blank">
 <img src="https://mregungor.github.io/web/images/ico/orcid.png" alt="ORCID" width="50" height="50"/>
 </a>
