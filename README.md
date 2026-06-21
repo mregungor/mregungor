@@ -1,5 +1,5 @@
 <h1 align="center">Hello There!</h1>
-<h2 align="center">Github does not believe i am a Teacher.</h2>
+<!-- <h2 align="center">Github does not believe i am a Teacher.</h2> -->
 <h3 align="center">- Emre Güngör(Computer Engineer,PhD) - Assistant Professor at Kütahya Health Sciences University -</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mregungor&label=Profile%20views&color=0e75b6&style=flat" alt="mregungor" /> </p>
